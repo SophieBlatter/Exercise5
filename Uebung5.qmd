@@ -2,11 +2,13 @@
 title: "Uebung5 Demo and Exercise"
 format: html
 editor: visual
+autor: Sophie
 ---
 
 # Demo
 
 ```{r}
+#load libraries
 library("readr")
 library("dplyr")
 library("sf")
